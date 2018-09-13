@@ -1,0 +1,12 @@
+
+
+
+genet.dist(pops_wout_USDA, method = "WC84")
+
+
+
+
+
+
+
+
